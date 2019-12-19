@@ -1,0 +1,113 @@
+[[PortAudio]]
+arch = "armv7l"
+git-tree-sha1 = "bf5a304630f5eb5cefffad5c811afee80114cf3d"
+libc = "glibc"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "befa6e17a9d9716a0f8bb8e5869b7f655085094e8134b4f5c60238abd821767d"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.arm-linux-gnueabihf.tar.gz"
+[[PortAudio]]
+arch = "x86_64"
+git-tree-sha1 = "9d07b5279d42b6311b13106df2293ac80caba329"
+libc = "glibc"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "d6c01ce6bbff57f14905b89e00b6424ee4e9d3996e80b3b7dbdca1e0955664a4"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.x86_64-linux-gnu.tar.gz"
+[[PortAudio]]
+arch = "aarch64"
+git-tree-sha1 = "3e540cd5e0215f780f2612d07cc4c3951ab98a9a"
+libc = "musl"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "eede979af274cf8e6562f738ec7a62f3c860b7dc264173b0462407901576c9b3"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.aarch64-linux-musl.tar.gz"
+[[PortAudio]]
+arch = "powerpc64le"
+git-tree-sha1 = "9eea078c44a80670631b28a49a3dad0bef9df91c"
+libc = "glibc"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "d4fda24393400b85b2088ac1d95538439f884323a19165b44de849fbd044976a"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.powerpc64le-linux-gnu.tar.gz"
+[[PortAudio]]
+arch = "x86_64"
+git-tree-sha1 = "b106f51f06c07643500bb445b0550cba90efb6f6"
+os = "macos"
+
+    [[PortAudio.download]]
+    sha256 = "c1ba10103756ddc87a3b150bd828cf2d2bb9141badc4cc7d910919e4571f5ae5"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.x86_64-apple-darwin14.tar.gz"
+[[PortAudio]]
+arch = "x86_64"
+git-tree-sha1 = "fb45563e66cc9ef6ed180f1d7bea6bfcb3c61d61"
+libc = "musl"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "955717c913e98bdd17b6201aa6bc4a2f6e428539148f96d196617e132a0a2c85"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.x86_64-linux-musl.tar.gz"
+[[PortAudio]]
+arch = "x86_64"
+git-tree-sha1 = "7cc16ddcc0af1b90b126ca414085d17e377a98ec"
+os = "windows"
+
+    [[PortAudio.download]]
+    sha256 = "87ea62e0b08c476c852fb76c04974e0f7c6b0883a92ebea8361970b4c2f2fdc2"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.x86_64-w64-mingw32.tar.gz"
+[[PortAudio]]
+arch = "i686"
+git-tree-sha1 = "d552bb362d73c9bcced8c30bf4fe95a4fa598400"
+libc = "glibc"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "10e3b58442b8d29d73abff7f62347edd741d580cef447aa2abb10714ccd0526f"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.i686-linux-gnu.tar.gz"
+[[PortAudio]]
+arch = "aarch64"
+git-tree-sha1 = "61b60e791b95904669e81d7028f44baacac20c37"
+libc = "glibc"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "48edfb08322fde9089f928efafcd6ae64cf2428b0d9ca5fb907f04d15d4964c6"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.aarch64-linux-gnu.tar.gz"
+[[PortAudio]]
+arch = "i686"
+git-tree-sha1 = "2331c1ad71c7e8539a72768b9adce75496474bb8"
+libc = "musl"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "fe43baa8c3335a36a3955a443ae687401bec897611bd333bfba56287b519ec2d"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.i686-linux-musl.tar.gz"
+[[PortAudio]]
+arch = "x86_64"
+git-tree-sha1 = "94463840e1124abfc6550e316a5f5764d00b19a3"
+os = "freebsd"
+
+    [[PortAudio.download]]
+    sha256 = "c425fb128347b19ecfca1c3331193f58a7bdc09b5c8269a29bd2d49970baab75"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[PortAudio]]
+arch = "i686"
+git-tree-sha1 = "da27b69d78e1c6dd1ebd368b7e1183c2e37f008b"
+os = "windows"
+
+    [[PortAudio.download]]
+    sha256 = "0f5dc39400d1252eb71d823ad63548f6c062e9ced590e302d5a46a926da4eedd"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.i686-w64-mingw32.tar.gz"
+[[PortAudio]]
+arch = "armv7l"
+git-tree-sha1 = "97db88d104fde64d632066b04f50548549598b3e"
+libc = "musl"
+os = "linux"
+
+    [[PortAudio.download]]
+    sha256 = "2d1ac947776c487e5c03bd682f08dbd2d1a90a5c9b4f3fb8c7dd8f3bef6cf04c"
+    url = "https://github.com/JuliaBinaryWrappers/PortAudio_jll.jl/releases/download/PortAudio-v19.6.0+0/PortAudio.v19.6.0.arm-linux-musleabihf.tar.gz"

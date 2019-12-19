@@ -1,0 +1,10 @@
+name = "PortAudio_jll"
+uuid = "4494f438-dd4a-57d3-b63d-980d0e6ad8a4"
+version = "19.6.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
